@@ -73,15 +73,15 @@ function App() {
               <td className='p-2'>Calories</td>
               <td  className='p-2'><span className="font-bold text-clNutmeg">277kcal</span></td>
             </tr>
-            <tr className='border-b border-gray-200 text-center'>
+            <tr className='border-b border-gray-200 text-center lg:text-start'>
               <td className='p-2'>Carbs</td>
               <td className='p-2'><span className="font-bold text-clNutmeg">0g</span></td>
             </tr>
-            <tr className='border-b border-gray-200 text-center '>
+            <tr className='border-b border-gray-200 text-center lg:text-start'>
               <td className='p-2'>Protein</td>
               <td className='p-2'><span className="font-bold text-clNutmeg">20g</span></td>
             </tr>
-            <tr className='border-b border-gray-200 text-center'>
+            <tr className='border-b border-gray-200 text-center lg:text-start'>
               <td className='p-2'>Fat</td>
               <td className='p-2'><span className="font-bold text-clNutmeg">22g</span></td>
             </tr>
