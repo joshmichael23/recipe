@@ -9,7 +9,7 @@ function App() {
         <img className="lg:rounded-xl" src="/images/image-omelette.jpeg" alt="" />
      </div>
      <div className='p-8 lg:p-0 lg:pt-12 grid gap-y-8'>
-       <h1 className='font-youngserif text-4xl font-bold text-cldarkCharcoal'>Simple Omellete Recipe</h1>
+       <h1 className='font-youngserif text-4xl text-cldarkCharcoal'>Simple Omellete Recipe</h1>
        <p className='text-md font-outfit text-clwengeBrown'>An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked 
          to perfection, optionally filled with your choice of cheese, vegetables, or meats.
        </p>
@@ -69,7 +69,7 @@ function App() {
             The table below shows nutritional values per serving without the additional fillings.
           </p>
           <table className='font-outfit text-clwengeBrown'>
-            <tr className='border-b border-gray-200 text-center'>
+            <tr className='border-b border-gray-200 text-center lg:text-start'>
               <td className='p-2'>Calories</td>
               <td  className='p-2'><span className="font-bold text-clNutmeg">277kcal</span></td>
             </tr>
